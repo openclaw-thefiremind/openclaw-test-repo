@@ -1,1 +1,1 @@
-Test project for Oncloaw services
+Test project for OpenClowes services
